@@ -5,7 +5,7 @@ const Public = () => {
     const content = (
         <div className='main__page'>
             <header>
-                <div>Fat&Cap Repair</div>
+                <div>FatandCap Repair</div>
                 <div><Link to="/login">Login</Link></div>
             </header>
             <main className="public__main">
