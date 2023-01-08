@@ -12,7 +12,7 @@ const Public = () => {
                 <div className='body__page'>
                     <h1>Welcome to Fat&Cap Repair!</h1>
                     <h3>We provides a trained staff ready to meet your tech repair needs.</h3>
-                    <p>We are located in a beautiful barangay in Capas</p>
+                    <p>We are located in a beautiful Municipality of Capas</p>
                         <address className="public__addr">
                             Fat&Cap Repair:<br />
                             154 Brgy Talaga, Capas<br />
